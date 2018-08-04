@@ -11,7 +11,7 @@ const layout = (props) => (
     <SideDrawer />
     <main className={classes.Content}>
       {props.children}
-    </main>
+    </main> 
   </Aux>
 );
 
