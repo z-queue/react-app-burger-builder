@@ -21,3 +21,10 @@
 .Logo {
   height: 80%;
 }
+
+/* To hide nav on tool bar on small device */
+@media (max-width: 499px) {
+  .DesktopOnly {
+    display: none;
+  }
+}
