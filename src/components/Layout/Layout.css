@@ -1,3 +1,4 @@
 .Content {
-  margin-top: 16px;
+  /* 56px height of the toolbar + 16px height of the margin top */
+  margin-top: 72px;
 }
