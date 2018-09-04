@@ -39,7 +39,9 @@ $ npm -v
 
 ## Running the tests
 
-Future task
+```
+$ npm test
+```
 
 ### Break down into end to end tests
 
